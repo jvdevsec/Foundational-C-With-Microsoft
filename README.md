@@ -1,6 +1,6 @@
 <div align="center">
 
-# Foundational C With Microsoft
+# Foundational C# With Microsoft
 
 ![Foundational C# with Microsoft](https://static-00.iconduck.com/assets.00/c-sharp-c-icon-85x96-hbacin82.png)
 
