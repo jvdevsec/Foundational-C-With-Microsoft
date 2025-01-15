@@ -2,7 +2,7 @@
 
 # Foundational C With Microsoft
 
-![Foundational C# with Microsoft](https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png)
+![Foundational C# with Microsoft](https://static-00.iconduck.com/assets.00/c-sharp-c-icon-85x96-hbacin82.png)
 
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./README.es.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md)
