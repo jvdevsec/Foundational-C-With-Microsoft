@@ -35,7 +35,6 @@ setting the stage for your programming adventures.
 - [x] Guided Project - Calculate Final GPA
 - [x] Trophy Write Your First Code Using C#
 </details>
-</details>
 
 <details >
 <summary>
@@ -59,4 +58,4 @@ executing your code and seeing it in action.
 - [] Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
 - [] Trophy - Create and Run Simple C# Console Applications
 </details>
-<details >
+
