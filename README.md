@@ -47,12 +47,12 @@ Master the art of creating and running simple C# console applications. Dive into
 the world of console-based programming, where you will gain hands-on experience
 executing your code and seeing it in action.
 
-- [-] Install and Configure Visual Studio Code for C# Development
-- [-] Call Methods From the .NET Class Library Using C#
-- [-] Add Decision Logic to Your Code Using if, else, and else if statements
-  in C#
-- [-] Store and Iterate Through Sequences of Data Using Arrays and the foreach
-  Statement in C#
+- [x] Install and Configure Visual Studio Code for C# Development
+- [x] Call Methods From the .NET Class Library Using C#
+- [x] Add Decision Logic to Your Code Using if, else, and else if statements
+      in C#
+- [x] Store and Iterate Through Sequences of Data Using Arrays and the foreach
+      Statement in C#
 - [-] Create Readable Code with Conventions, Whitespace, and Comments in C#
 - [-] Guided Project - Develop foreach and if-elseif-else Structures to
   Process Array Data in C#
