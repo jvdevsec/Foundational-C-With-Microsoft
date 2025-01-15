@@ -30,16 +30,13 @@ Begin your journey by learning to write your first code using C#. Develop a
 strong foundation as you explore the fundamentals and syntax of the language,
 setting the stage for your programming adventures.
 
-- [] Write Your First C# Code
-- [] Store and Retrieve Data Using Literal and Variable Values in C#
-- [] Perform Basic String Formatting in C#
-- [] Perform Basic Operations on Numbers in C#
-- [] Guided Project - Calculate and Print Student Grades
-- [] Guided Project - Calculate Final GPA
-- [] Trophy Write Your First Code Using C#
-
-![Write Your First Code Using C#](./imgs/trophies/1.png)
-
+- [x] Write Your First C# Code
+- [x] Store and Retrieve Data Using Literal and Variable Values in C#
+- [x] Perform Basic String Formatting in C#
+- [x] Perform Basic Operations on Numbers in C#
+- [x] Guided Project - Calculate and Print Student Grades
+- [x] Guided Project - Calculate Final GPA
+- [x] Trophy Write Your First Code Using C#
 </details>
 
 <details >
