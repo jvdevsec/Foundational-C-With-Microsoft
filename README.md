@@ -2,7 +2,7 @@
 
 # Foundational C With Microsoft
 
-![Foundational C# with Microsoft](https://www.invisible-works.com/wp01/wp-content/uploads/2021/10/csharp_line_logo_icon_146579.png)
+![Foundational C# with Microsoft](https://tse2.mm.bing.net/th?id=OIP.bu2Qea4bfAcVPRyUefowAwAAAA&pid=Api)
 
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./README.es.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md)
