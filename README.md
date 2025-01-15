@@ -40,7 +40,7 @@ setting the stage for your programming adventures.
 <details >
 <summary>
 
-### Create and Run Simple C# Console Applications
+### 2. Create and Run Simple C# Console Applications
 
 </summary>
 Master the art of creating and running simple C# console applications. Dive into
