@@ -4,8 +4,8 @@
 
 ![Foundational C# with Microsoft](https://learn.microsoft.com/en-us/training/achievements/csharp-data.svg)
 
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
-[![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](./README.es.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md)
 
 </div>
 
@@ -21,8 +21,6 @@ By the end of this course, you will have gained the practical skills and knowled
 <summary>
 
 ### Write Your First Code Using C\#
-
-![progress]()
 
 </summary>
 
