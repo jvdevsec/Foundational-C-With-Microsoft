@@ -22,7 +22,7 @@ By the end of this course, you will have gained the practical skills and knowled
 
 ### Write Your First Code Using C\#
 
-![progress](https://progress-bar.dev/100/?title=progress&width=400)
+![progress]()
 
 </summary>
 
