@@ -7,7 +7,7 @@
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./readme.es.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./readme.md)
 
-<div>
+</div>
 
 This course offers a comprehensive introduction to C# programming, covering its core concepts, syntax, and practical application in software development.
 
