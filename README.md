@@ -20,10 +20,9 @@ By the end of this course, you will have gained the practical skills and knowled
 <details >
 <summary>
 
-### Write Your First Code Using C\#
+### 1. Write Your First Code Using C\#
 
 </summary>
-
 Begin your journey by learning to write your first code using C#. Develop a
 strong foundation as you explore the fundamentals and syntax of the language,
 setting the stage for your programming adventures.
@@ -36,6 +35,29 @@ setting the stage for your programming adventures.
 - [x] Guided Project - Calculate Final GPA
 - [x] Trophy Write Your First Code Using C#
 </details>
+</details>
 
+<details >
+<summary>
+
+### Create and Run Simple C# Console Applications
+
+</summary>
+Master the art of creating and running simple C# console applications. Dive into
+the world of console-based programming, where you will gain hands-on experience
+executing your code and seeing it in action.
+
+- [-] Install and Configure Visual Studio Code for C# Development
+- [-] Call Methods From the .NET Class Library Using C#
+- [-] Add Decision Logic to Your Code Using if, else, and else if statements
+  in C#
+- [-] Store and Iterate Through Sequences of Data Using Arrays and the foreach
+  Statement in C#
+- [-] Create Readable Code with Conventions, Whitespace, and Comments in C#
+- [-] Guided Project - Develop foreach and if-elseif-else Structures to
+  Process Array Data in C#
+- [-] Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
+- [-] Trophy - Create and Run Simple C# Console Applications
+</details>
 <details >
 <summary>
