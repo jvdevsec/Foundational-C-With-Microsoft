@@ -17,7 +17,7 @@ of writing code easier and more efficient.
 An IDE typically includes a suite of tools that support the software development
 process from beginning to end, a process known as the development lifecycle. The
 IDE tools enable the developer to work more efficiently and can help the
-developer, or team of developers, to write, debug, test, publish,  and version
+developer, or team of developers, to write, debug, test, publish, and version
 their code more easily. A good IDE is a programmer's best friend.
 
 Suppose you're interested in getting started with C# application development.
