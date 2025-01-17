@@ -52,7 +52,6 @@ internal static class Program
         */
         
         // Challenge - Improve Renewal of Subscriptions
-
         
         Random random = new Random();
         var daysUntilExpiration = random.Next(12);
@@ -84,11 +83,5 @@ internal static class Program
         {
             Console.WriteLine($"Your subscription is up to day. Days until expiration:{daysUntilExpiration}");
         }
-  
-        
-        
-
-
-
     }
 }    
