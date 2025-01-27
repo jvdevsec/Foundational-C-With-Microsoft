@@ -32,7 +32,7 @@ int[] studentScores = new int[10];
 
 // display the header row for scores/grades
 Console.Clear();
-Console.WriteLine("Student\t\tExam Score\tOverall Grade\tExtra Credit");
+Console.WriteLine("Student\t\tExam Score\tOverall Grade\tExtra Credit\n");
 
 /*
 The outer foreach loop is used to:
